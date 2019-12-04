@@ -1,5 +1,5 @@
 # py_pong
 
-Very good old school game to learn and play !
+Very good old school game to learn python !
 
-have fun !!!
+Have fun !!!
